@@ -26,3 +26,7 @@ Next, we formulated some quantitative factors such as Recency, Frequency and Mon
 2. We moved to k-means clustering , we selected optimal number of clusters with the help of Elbow Curve and Silhouette Score and visualized the results with different number of clusters. As we know there is no assurance that k-means will lead to the global best solution. We moved forward and tried Hierarchical Clustering and DBSCAN clustering as well.
 
 3. We created several useful clusters of customers on the basis of different metrics and methods to categorize the customers on the basis of their beavioural attributes to define their valuability, loyality, profitability etc. for the business. Though significantly separated clusters are not visible in the plots, but the clusters obtained is fairly valid and useful as per the algorithms and the statistics extracted from the data.
+
+### **Results :**
+
+
