@@ -1,25 +1,24 @@
 # Online-Retail-Customer-Segmentation
 ![1_iejTpHhx-u_R73XQD0GFkg](https://user-images.githubusercontent.com/106880838/200382198-aa58d5d8-e892-4306-933f-2db07c450882.jpeg)
 ---
-# Problem Description :
+# **Problem Description :**
 The main goal is to identify major customer segments like customers that are most profitable and the ones who churned out using Unsupervised ML Clustering Algorithms to prevent further loss of customer by redefining company policies. In this project, our task is to identify major customer segments on a transnational dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. The dataset provided contains information about Invoice No, Stock Code, Description, Quantity, Invoice Date, Unit Price, Customer ID and Country for each transaction.
 
 ---
 # **SUMMARY**
 ## **Steps Involved : -** 
-### **Data Preprocessing :**
+- ### **Data Preprocessing :**
 Started with understanding the dataset, some basic inspection like checking columns, data statistics, missing values, duplicate values after that handling those null values, duplicates and some data cleaning.
-
-### **Feature Engineering :** 
+- ### **Feature Engineering :** 
 Some new features have been created to get more insights from the datset.
 
-### **Exploratory Data Analysis :** 
+- ### **Exploratory Data Analysis :** 
 we tried to get some insights from the data by plotting graphs and charts. We saw top customers who have purchased the maximum quantity. Interestingly. We saw not only maximum transactions come from the UK but also most customers are located in the United Kingdom.
 
-### **RFM Analysis :**
+- ### **RFM Analysis :**
 Next, we formulated some quantitative factors such as Recency, Frequency and Monetary known as RFM model for each of the customers. We did some feature engineering and EDA on this new dataset as well. We also made some transformations in this dataset to make it ready to be passed to different clustering algorithms.
 
-### **Model Summary :**
+- ### **Model Summary :**
 
 1. We started with binning of RFM Score and RFM Group segmentation model, then moved to more complex models.
 
@@ -29,11 +28,11 @@ Next, we formulated some quantitative factors such as Recency, Frequency and Mon
 
 ### **Results :**
 
-### <ins>**Cluster Summary</ins> 🢂** 
+- ### <ins>**Cluster Summary</ins> 🢂** 
 
 ![12](https://user-images.githubusercontent.com/106880838/200730871-89bccf8b-41bf-4fef-93ac-f44911b98c58.PNG)
 
-### <ins>**Customer Segment Summary </ins> 🢂** 
+- ### <ins>**Customer Segment Summary </ins> 🢂** 
 
 ![13](https://user-images.githubusercontent.com/106880838/200730876-e2947f80-c251-491b-bf04-8051631a54b6.PNG)
 
