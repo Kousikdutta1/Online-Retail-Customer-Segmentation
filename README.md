@@ -29,4 +29,11 @@ Next, we formulated some quantitative factors such as Recency, Frequency and Mon
 
 ### **Results :**
 
+### <ins>**Cluster Summary</ins> 🢂** 
+
+![12](https://user-images.githubusercontent.com/106880838/200730871-89bccf8b-41bf-4fef-93ac-f44911b98c58.PNG)
+
+### <ins>**Customer Segment Summary </ins> 🢂** 
+
+![13](https://user-images.githubusercontent.com/106880838/200730876-e2947f80-c251-491b-bf04-8051631a54b6.PNG)
 
